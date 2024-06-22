@@ -36,7 +36,8 @@
 **Power BI Analysis: Nike USA Shoe sales | Power BI, Excel**
 - Implemented interactive features such as slicers, filters, and drill – through functionality to enable users to explore sales data.  
 - Created visually appealing dashboards to visualize Nike sales trends over time and region.  
-- Did a Comprehensive analysis of Nike data using Power Bi to give more insights to the users. 
+- Did a Comprehensive analysis of Nike data using Power Bi to give more insights to the users.
+![img](assets/NIke_BI.png)
 
 **YouTube Channels Performance Analysis | SPSS**                               
 - Leveraged publicly available dataset to analyze factors influencing YouTube channel revenue and performance.  
