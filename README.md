@@ -33,6 +33,7 @@
 - Develop a user-friendly budget tracking app with CRUD operations using python and pandas. 
 - Integrate Python and Excel to store data and make changes efficiently. 
 
+
 [**Sports Arena Managment using DBMS | SQL**](https://drive.google.com/drive/u/1/folders/1OzFrEQ8d0IOvpYSUaQazzLdPgEezApgj)
 
 
@@ -68,3 +69,16 @@
 - The Taguchi technique is used to determine and optimize important WEDM Parameters
 - Examined how the optimized parameters might be used to actual cutting applications.
 - Boost productivity and cut down on waste when cutting metal
+
+###Certifications
+
+- Programming for Everybody (Getting Started with Python)[Link](https://coursera.org/share/e63f2795f16522da33cf91bbc5d96f0c)
+- Python Data Structures[Link](https://coursera.org/share/f6de3489c05f5068a360396dc139a694)
+- Python:working with files[Link](https://www.linkedin.com/learning/certificates/27d104394e0ee60d3741a1a8a55ee8059fe2f4f99d724fc1303f5ea011f603be?u=42458916)
+- Machine Learning for All[Link](https://coursera.org/share/f289cc6e887d947d2659a9dc3a25b0d5)
+- Unsupervised Machine Learning for Customer Market Segmentation[Link](https://coursera.org/share/039fe5f1aea6fa9e054bd33a8f8b551e)
+- Excel Fundamentals for Data Analysis[Link](https://coursera.org/share/390476a38d9387ca66bd6a95716291d8)
+- Strategic Business Management - Macroeconomics[Link](https://krishnavyas36.github.io/account/accomplishments/?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course)
+- predective Analytics Essential Training: Data Mining[Link](https://www.linkedin.com/learning/certificates/d762c898feca6637689d03f4139ca23c1af913f37f51fd221e582375d99faa65)
+- Building Digital Media using Graphic Design in Google Slides[Link](https://coursera.org/share/38b887a53f4fc4ea763b54c578cd6b30)
+- Introduction to Mechanical Engineering Design and Manufacturing with Fusion 360[Link]
