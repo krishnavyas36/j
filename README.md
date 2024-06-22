@@ -33,6 +33,12 @@
 - Develop a user-friendly budget tracking app with CRUD operations using python and pandas. 
 - Integrate Python and Excel to store data and make changes efficiently. 
 
+[**Sports Arena Managment using DBMS | SQL**](https://drive.google.com/drive/u/1/folders/1OzFrEQ8d0IOvpYSUaQazzLdPgEezApgj)
+
+
+[**System Analysis - urban Company care+**](https://drive.google.com/drive/u/1/folders/1oqWYW5x6s53zfPz03LiaLL5P1Qda2jhG)
+
+
 [**Power BI Analysis: Nike USA Shoe sales | Power BI, Excel**](https://drive.google.com/file/d/1ELvBN9ASRtqZV5IR_PmY7iUUQZcwv37X/view?usp=drive_link)
 - Implemented interactive features such as slicers, filters, and drill – through functionality to enable users to explore sales data.  
 - Created visually appealing dashboards to visualize Nike sales trends over time and region.  
